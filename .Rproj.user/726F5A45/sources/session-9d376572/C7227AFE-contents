@@ -1,0 +1,3 @@
+library(blogdown)
+
+blogdown::build_site()
