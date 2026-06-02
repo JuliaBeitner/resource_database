@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "Support Center & Knowledge base"
-  subtitle: "Find advice and answers from our support team fast or get in touch"
+  title: "The coolest resource database"
+  subtitle: "Find open resources for your next study"
   bg_image: "images/banner.jpg"
   placeholder: "Have a question? Just ask here or enter terms"
 
