@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "The coolest resource database"
-  subtitle: "Find open resources for your next study"
+  title: "ORBIT"
+  subtitle: "Discover open resources for sleep, memory, and dream research"
   bg_image: "images/banner.jpg"
   placeholder: "Have a question? Just ask here or enter terms"
 

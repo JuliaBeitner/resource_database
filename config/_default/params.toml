@@ -9,7 +9,7 @@ logo_width = "100px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Dot"
+logo_text = "ORBIT"
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -24,7 +24,7 @@ custom_script = ""
 
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "Copyright by ORBIT"
 
 # contact info
 [contact_info]

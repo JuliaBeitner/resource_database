@@ -9,7 +9,7 @@ weight = 1
 # ------------------------------------------------------------
 # French language
 # ------------------------------------------------------------
-[fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-weight = 2
+#[fr]
+#languageName = "Fr"
+#languageCode = "fr-fr"
+#weight = 2
