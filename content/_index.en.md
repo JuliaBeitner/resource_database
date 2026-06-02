@@ -2,7 +2,7 @@
 banner:
   title: "ORBIT"
   subtitle: "Discover open resources for sleep, memory, and dream research"
-  bg_image: "images/banner.jpg"
+  bg_image: "images/banner.png"
   placeholder: "Have a question? Just ask here or enter terms"
 
 cta:
