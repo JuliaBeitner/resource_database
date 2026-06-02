@@ -25,18 +25,18 @@ hasChildren = true
 
   [[main]]
   parent = "docs"
-  name = "Installation"
-  url = "installation/"
+  name = "Sleep"
+  url = "sleep/"
   weight = 1
 
   [[main]]
   parent = "docs"
-  name = "Billing and Pricing"
-  url = "billing-pricing/"
+  name = "Memory"
+  url = "memory/"
   weight = 2
 
   [[main]]
   parent = "docs"
-  name = "Features"
-  url = "features/"
+  name = "Dreaming"
+  url = "dreaming/"
   weight = 3
